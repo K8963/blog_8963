@@ -30,13 +30,13 @@ npm run lint
 
 前台首页
 
-![image-20200823132454715](C:\Users\8963\AppData\Roaming\Typora\typora-user-images\image-20200823132454715.png)
+![](\src\assets\img\Snipaste_2020-08-23_13-45-19.jpg)
 
 登录页
 
-![image-20200823132607550](C:\Users\8963\AppData\Roaming\Typora\typora-user-images\image-20200823132607550.png)
+![](\src\assets\img\Snipaste_2020-08-23_13-45-07.jpg)
 
 后台首页
 
-![image-20200823132629667](C:\Users\8963\AppData\Roaming\Typora\typora-user-images\image-20200823132629667.png)
+![](\src\assets\img\Snipaste_2020-08-23_13-44-09.jpg)
 
